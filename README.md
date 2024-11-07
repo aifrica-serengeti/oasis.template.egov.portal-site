@@ -2,5 +2,5 @@
 1. DATABASE의 ddl, data 파일을 db에 적용.
 2. src/main/resources/egovframework/egovProps/globals.properties에 db 접속정보 설정
 3. domain/pst_webapp 경로로 접속한다.
-###portal site 어드민 계정 정보
+### portal site 어드민 계정 정보
 id: admin password: 1
